@@ -1,3 +1,9 @@
+
+
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/75ecad59-e771-4d07-940e-f0f9a44240ee" />
+
+
+
 # conversordemonedas
 alura -- pendiente proceso 
 Conversor de Monedas 💵💱💶
